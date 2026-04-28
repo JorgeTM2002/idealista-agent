@@ -1,1 +1,26 @@
-
+{
+  "url": "https://www.idealista.com/venta-viviendas/madrid-madrid/con-precio-desde_220000,metros-cuadrados-mas-de_60,publicado_ultimas-48-horas/?ordenado-por=fecha-publicacion-desc",
+  "ntfy_topic": "idealista-jorge-chollos",
+  "precio_min": 220000,
+  "precio_max": 350000,
+  "metros_min": 60,
+  "score_minimo": 5,
+  "zonas_excluidas": [
+    "vallecas",
+    "usera",
+    "villaverde",
+    "pueblo nuevo"
+  ],
+  "precios_zona": {
+    "chamberi": 6800,
+    "chamartin": 6500,
+    "retiro": 6500,
+    "arganzuela": 5200,
+    "tetuan": 4700,
+    "ciudad lineal": 4200,
+    "moncloa": 5600,
+    "centro": 6500,
+    "salamanca": 8000,
+    "carabanchel": 3300
+  }
+}
